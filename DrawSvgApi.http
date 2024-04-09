@@ -1,0 +1,6 @@
+@DrawSvgApi_HostAddress = http://localhost:5210
+
+GET {{DrawSvgApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
